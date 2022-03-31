@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(80, 7, 98);
+    background-color: rgb(128, 9, 158);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -7,7 +7,7 @@ body {
 }
 
 h1 {
-    font-size: 15rem;
+    font-size: 13rem;
     font-family: montserrat;
 }
 

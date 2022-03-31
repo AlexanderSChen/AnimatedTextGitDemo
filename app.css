@@ -1,3 +1,16 @@
 body {
     background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+h1 {
+    font-size: 15rem;
+    font-family: montserrat;
+}
+
+.letter {
+    transition: color 1000ms;
 }
